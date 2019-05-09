@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpaceAgencyDataHub
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: toanb
+Implementation-Vendor-Id: com.me
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://projects.spring.io/spring-boot/SpaceAgencyD
+ ataHub/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

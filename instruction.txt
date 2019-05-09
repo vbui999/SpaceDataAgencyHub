@@ -1,0 +1,16 @@
+www.localhost:8080/
+
+user and pass : are not required.
+
+www.localhost:8080/manager/mission
+www.localhost:8080/manager/mission/{id}
+...
+www.localhost:8080/customer
+www.localhost:8080/customer/{id}
+www.localhost:8080/customer/customer/search/image_type
+www.localhost:8080/customer/customer/search/name
+www.localhost:8080/customer/customer/search/customer/checkout
+
+
+
+
